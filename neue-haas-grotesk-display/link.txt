@@ -1,4 +1,5 @@
+
 [500]
-https://cdn.jsdelivr.net/gh/nudgecomms/font/neue-haas-grotesk-display/500_Mediu/NeueHaasDisplay-Mediu.woff
-https://cdn.jsdelivr.net/gh/nudgecomms/font/neue-haas-grotesk-display/500_Mediu/NeueHaasDisplay-Mediu.woff2
-https://cdn.jsdelivr.net/gh/nudgecomms/font/neue-haas-grotesk-display/500_Mediu/NeueHaasDisplay-Mediu.ttf
+https://cdn.jsdelivr.net/gh/nudgecomms/font/neue-haas-grotesk-display/500_Roman/NeueHaasDisplay-Roman.woff
+https://cdn.jsdelivr.net/gh/nudgecomms/font/neue-haas-grotesk-display/500_Roman/NeueHaasDisplay-Roman.woff2
+https://cdn.jsdelivr.net/gh/nudgecomms/font/neue-haas-grotesk-display/500_Roman/NeueHaasDisplay-Roman.ttf
