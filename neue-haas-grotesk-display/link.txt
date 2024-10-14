@@ -1,0 +1,5 @@
+
+[500]
+https://cdn.jsdelivr.net/gh/nudgecomms/font/pretendard/500_Mediu/NeueHaasDisplay-Mediu.woff
+https://cdn.jsdelivr.net/gh/nudgecomms/font/pretendard/500_Mediu/NeueHaasDisplay-Mediu.woff2
+https://cdn.jsdelivr.net/gh/nudgecomms/font/pretendard/500_MediuNeueHaasDisplay-Mediu.ttf
