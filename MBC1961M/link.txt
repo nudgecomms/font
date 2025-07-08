@@ -1,0 +1,3 @@
+https://cdn.jsdelivr.net/gh/nudgecomms/font/MBC1961M/MBC1961M.woff
+https://cdn.jsdelivr.net/gh/nudgecomms/font/MBC1961M/MBC1961M.woff2
+https://cdn.jsdelivr.net/gh/nudgecomms/font/MBC1961M/MBC1961M.ttf
