@@ -1,0 +1,3 @@
+https://cdn.jsdelivr.net/gh/nudgecomms/font/Revive-80-Signature/Revive80Signature.woff
+https://cdn.jsdelivr.net/gh/nudgecomms/font/Revive-80-Signature/Revive80Signature.woff2
+https://cdn.jsdelivr.net/gh/nudgecomms/font/Revive-80-Signature/Revive80Signature.ttf
