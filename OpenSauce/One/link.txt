@@ -1,0 +1,9 @@
+[400]
+https://cdn.jsdelivr.net/gh/nudgecomms/font/OpenSauce/One/400_Regular/OpenSauceOne-Regular.woff
+https://cdn.jsdelivr.net/gh/nudgecomms/font/OpenSauce/One/400_Regular/OpenSauceOne-Regular.woff2
+https://cdn.jsdelivr.net/gh/nudgecomms/font/OpenSauce/One/400_Regular/OpenSauceOne-Regular.ttf
+
+[700]
+https://cdn.jsdelivr.net/gh/nudgecomms/font/OpenSauce/One/700_Bold/OpenSauceOne-Bold.woff
+https://cdn.jsdelivr.net/gh/nudgecomms/font/OpenSauce/One/700_Bold/OpenSauceOne-Bold.woff2
+https://cdn.jsdelivr.net/gh/nudgecomms/font/OpenSauce/One/700_Bold/OpenSauceOne-Bold.ttf
