@@ -1,0 +1,3 @@
+https://cdn.jsdelivr.net/gh/nudgecomms/font/OneStoreTitle/400_Regular/ONEMobileTitle.woff
+https://cdn.jsdelivr.net/gh/nudgecomms/font/OneStoreTitle/400_Regular/ONEMobileTitle.woff2
+https://cdn.jsdelivr.net/gh/nudgecomms/font/OneStoreTitle/400_Regular/ONEMobileTitle.ttf
