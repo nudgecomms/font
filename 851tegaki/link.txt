@@ -1,2 +1,4 @@
+HY Marekitng jp 필기체에서 사용됨
+
 https://cdn.jsdelivr.net/gh/nudgecomms/font/851tegaki/851tegaki.woff
 https://cdn.jsdelivr.net/gh/nudgecomms/font/851tegaki/851tegaki.woff2
